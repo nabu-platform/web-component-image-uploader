@@ -1,0 +1,11 @@
+{
+	"name": "web-component-image-uploader", 
+	"resources": {
+		"image-uploader.js": {
+			"url": "image-uploader.js"
+		}, 
+		"image-uploader.tpl": {
+			"url": "image-uploader.tpl"
+		}
+	}
+}
